@@ -1,0 +1,4 @@
+@charset "ISO-8859-1";
+
+div.inline { float:left; }
+.clearBoth { clear:both; }
